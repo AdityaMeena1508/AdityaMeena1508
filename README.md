@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdityaMeena1508
+- 👋 Hi, I’m AdityaMeena
 - 👀 I’m interested in Python, Django, AWS
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on 
